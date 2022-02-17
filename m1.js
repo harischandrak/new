@@ -1,3 +1,0 @@
-super
-hi
-love
