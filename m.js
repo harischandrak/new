@@ -1,5 +1,2 @@
-hello
-world
-test
-sky
-you
+wow
+super
