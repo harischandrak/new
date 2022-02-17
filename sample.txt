@@ -1,2 +1,6 @@
 hello world
+<<<<<<< Updated upstream
 changed in master
+=======
+this is sample file
+>>>>>>> Stashed changes
